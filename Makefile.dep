@@ -1,0 +1,3 @@
+quadratic.o: quadratic.cpp quadratic.h
+main.o: main.cpp main.h chaining.h quadratic.h
+chaining.o: chaining.cpp chaining.h
